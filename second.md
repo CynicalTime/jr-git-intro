@@ -1,1 +1,1 @@
-This is the first line of the second file.
+Different change to the first line of the second file.
